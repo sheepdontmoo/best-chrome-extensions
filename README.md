@@ -1,1 +1,1 @@
-@/workspace/tabrollback-clients/distribution/CONTENT_ONLY.txt
+PLACEHOLDER_REPLACE_WITH_FULL_README
